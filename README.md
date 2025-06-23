@@ -70,7 +70,7 @@ The StudyNotion platform's API is designed following the REST architectural styl
 
 To install the StudyNotion platform, follow these steps:
 
-- Clone the repository: `git clone https://github.com/ash956901/StudyNotion`
+- Clone the repository: `https://github.com/AYUSHAMRIT24/StudyNotion.git`
 - Navigate to the project directory: `cd StudyNotion`
 - Install backend dependencies: `cd Server && npm install`
 - Install frontend dependencies: `cd .. && npm install`
@@ -80,9 +80,7 @@ To install the StudyNotion platform, follow these steps:
 
 - Set up a MongoDB database and obtain the connection URL.
 - Get up the Mail pass and Mail Port from Gmail.
-- Set up a Razorpay account and obtain the key ,secret.
 - Get jwt secret
-- Set up a cloudinary account and obtain cloud name,api key and api secret.
 - Create a `.env` file in the `Server` directory with the following environment variables:
   - `MONGODB_URL=<your-mongodb-connection-url>`
   - `JWT_SECRET=<your-jwt-secret-key>`
@@ -90,11 +88,8 @@ To install the StudyNotion platform, follow these steps:
   - `MAIL_PORT=<your-mail-port>`
   - `MAIL_USER=<your-mail-id>`
   - `JWT-SECRET=<your-jwt-secret>`
-  - `RAZORPAY_KEY=<your-razorpay-key>`
-  - `RAZORPAY_SECRET=<your-razorpay-secret>`
-  - `CLOUD_NAME=<your-cloud-name-on-cloudinary>`
   - `API_KEY=<your-cloudinary-api-key>`
-  - `API_SECRET=<your-cloudinary-api-secret>`
+  - 
 - Create a `.env` file in the root folder and add the `REACT_APP_BASE_URL:<your-backend-url-or-your-localhost>`
 - Also change the cors allow origin in index.js inside Server to the localhost or backend url you are using.
 
@@ -134,9 +129,6 @@ The StudyNotion platform relies on the following dependencies:
 - ExpressJS
 - Tailwind CSS
 - Redux
-- Cloudinary
-- Razorpay
-- SwiperJs
 - NodeMailer
 - React-icons
 - And a Lot More...
@@ -176,7 +168,7 @@ Contributions are welcome If you have any suggestions or find any issues, please
 
 ## Contact
 
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
+- Email: [roya4177@gmail.com](mailto:roya4177@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/ayush-amrit-340415208/](https://www.linkedin.com/in/ayush-amrit-340415208/)
+- Website: [Ayush Amrit](https://leetcode.com/u/roya4177/)
 
