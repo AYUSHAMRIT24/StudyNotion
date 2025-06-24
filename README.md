@@ -111,11 +111,14 @@ You can preview the StudyNotion platform at [https://studynotion-frontend.vercel
 ![Screenshot 2025-06-19 105853](https://github.com/user-attachments/assets/6d8088c3-adb4-4b82-ac75-66ba4e89522a)
 
 
-[![Study Notion](https://i.ibb.co/Fb72r3p/Screenshot-from-2024-05-19-00-20-49.png)](https://study-notion-seven-nu.vercel.app/)
+
+
 
 [![Study Notion](https://i.ibb.co/M7nd49Z/Screenshot-from-2024-05-19-00-20-06.png)](https://study-notion-seven-nu.vercel.app/)
 
+
 [![Study Notion](https://i.ibb.co/r28npyx/Screenshot-from-2024-05-19-00-21-29.png)](https://study-notion-seven-nu.vercel.app/)
+
 
 [![Study Notion](https://i.ibb.co/82jCqMy/Screenshot-from-2024-05-19-00-21-49.png)](https://study-notion-seven-nu.vercel.app/)
 
